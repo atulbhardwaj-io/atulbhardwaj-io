@@ -134,10 +134,5 @@
 * LinkedIn: [https://www.linkedin.com/in/atul-bhardwaj/](https://www.linkedin.com/in/atul-bhardwaj/)
 * Portfolio: https://atulbhardwaj.vercel.app/
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulbhardwaj-io&show_ic
-](https://atulbhardwaj.vercel.app/)
