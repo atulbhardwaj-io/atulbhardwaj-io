@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
+[<h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
 
 <img align="right" alt="data-engineer" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -140,3 +140,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulbhardwaj-io&show_ic
+](https://atulbhardwaj.vercel.app/)
