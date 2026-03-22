@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
 
 <p align="left">
-  <img align="right" alt="data-engineer-coding" width="240" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+  <img align="right" alt="coding" width="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p>
 
 <p>
