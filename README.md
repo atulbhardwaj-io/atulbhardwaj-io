@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **atulbhardwaj-io/atulbhardwaj-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,18 +22,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * Computer Science student focused on **Data Engineering and Scalable Systems**
 * Building real-world solutions using **data pipelines, machine learning, and cloud tools**
 * Interested in **analytics, automation, and environmental intelligence systems**
 
 ---
-<a href="https://www.buymeacoffee.com/atulbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 ## 🛠️ Tech Stack
 
