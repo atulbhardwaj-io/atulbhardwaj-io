@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * Computer Science student specializing in **Data Engineering and Scalable Systems**
 * Experienced in building solutions using **data pipelines, machine learning, and cloud technologies**
