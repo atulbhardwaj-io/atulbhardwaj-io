@@ -1,19 +1,19 @@
 <h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
 
-<p align="left">
-  <img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</p>
+<img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>
-🎓 B.Tech CSE (IoT) @ SRM Institute of Science and Technology <br/>
-📍 Tamil Nadu, India  
-</p>
+### 💡 Data Engineering | AI/ML | Scalable Systems
+
+*  Currently building **Identity Lakehouse (Spark + Delta Lake)**
+*  Learning **Advanced Data Engineering & Distributed Systems**
+*  Ask me about **ETL Pipelines, SQL, Machine Learning**
+*  Focused on **real-world data systems & analytics platforms**
 
 <br clear="both"/>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * Computer Science student specializing in **Data Engineering and Scalable Systems**
 * Experienced in building solutions using **data pipelines, machine learning, and cloud technologies**
