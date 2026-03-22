@@ -1,23 +1,53 @@
 <h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
 
-<img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="data-engineer" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 💡 Data Engineering | AI/ML | Scalable Systems
 
-* Currently building **Identity Lakehouse (Spark + Delta Lake)**
-* Learning **Advanced Data Engineering & Distributed Systems**
-* Ask me about **ETL Pipelines, SQL, Machine Learning**
-* Focused on **real-world data systems & analytics platforms**
+* 🔭 Currently building **Identity Lakehouse (Spark + Delta Lake)**
+* 🌱 Learning **Advanced Data Engineering & Distributed Systems**
+* 💬 Ask me about **ETL Pipelines, SQL, Machine Learning**
+* 🎯 Focused on **real-world data systems & analytics platforms**
 
 <br clear="both"/>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 * Computer Science student specializing in **Data Engineering and Scalable Systems**
 * Experienced in building solutions using **data pipelines, machine learning, and cloud technologies**
 * Strong interest in **analytics, automation, and environmental intelligence systems**
+
+---
+
+## 📂 Projects
+
+### 🔹 Identity Lakehouse
+
+* Developed a scalable data lakehouse using **Apache Spark and Delta Lake**
+* Implemented **Medallion Architecture (Bronze–Silver–Gold)**
+* Automated ETL workflows using **Apache Airflow and Docker**
+* Built analytics-ready datasets for demographic and regional insights
+  🔗 [https://github.com/atulbhardwaj-io/IdentityLakeHouse](https://github.com/atulbhardwaj-io/IdentityLakeHouse)
+
+---
+
+### 🔹 Revenue Intelligence Engine
+
+* Designed a **SQL-based Data Warehouse** integrating ERP and CRM data
+* Built ETL pipelines for data ingestion and transformation
+* Implemented **Star Schema (fact and dimension tables)** for analytics
+  🔗 [https://github.com/atulbhardwaj-io/sqldatawarehouse](https://github.com/atulbhardwaj-io/sqldatawarehouse)
+
+---
+
+### 🔹 EcoSentry AI
+
+* Built an AI-driven system to **predict forest fires using satellite data**
+* Trained machine learning models on environmental datasets
+* Integrated geospatial visualization for real-time monitoring
+  🔗 [https://github.com/ECOSENTRYAI/Eco-Sentry](https://github.com/ECOSENTRYAI/Eco-Sentry)
 
 ---
 
@@ -82,36 +112,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🔹 Identity Lakehouse
-
-* Developed a scalable data lakehouse using **Apache Spark and Delta Lake**
-* Implemented **Medallion Architecture (Bronze–Silver–Gold)**
-* Automated ETL workflows using **Apache Airflow and Docker**
-* Built analytics-ready datasets for demographic and regional insights
-  🔗 https://github.com/atulbhardwaj-io/IdentityLakeHouse
-
----
-
-### 🔹 Revenue Intelligence Engine
-
-* Designed a **SQL-based Data Warehouse** integrating ERP and CRM data
-* Built ETL pipelines for data ingestion and transformation
-* Implemented **Star Schema (fact and dimension tables)** for analytics
-  🔗 https://github.com/atulbhardwaj-io/sqldatawarehouse
-
----
-
-### 🔹 EcoSentry AI
-
-* Built an AI-driven system to **predict forest fires using satellite data**
-* Trained machine learning models on environmental datasets
-* Integrated geospatial visualization for real-time monitoring
-  🔗 https://github.com/ECOSENTRYAI/Eco-Sentry
-
----
-
 ## 🧪 Research & Experience
 
 ### Smart Bin: AI-Based Waste Classification System
@@ -130,6 +130,13 @@
 
 ## 📫 Connect
 
-* GitHub: https://github.com/atulbhardwaj-io
-* LinkedIn: https://www.linkedin.com/in/atul-bhardwaj/
-* Portfolio: https://atulbhardwaj.vercel.app/
+* GitHub: [https://github.com/atulbhardwaj-io](https://github.com/atulbhardwaj-io)
+* LinkedIn: [https://www.linkedin.com/in/atul-bhardwaj/](https://www.linkedin.com/in/atul-bhardwaj/)
+* Portfolio: (add your link)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulbhardwaj-io&show_ic
