@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atul Bhardwaj</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</p>
+
+<p align="center">
 🎓 B.Tech CSE (IoT) @ SRM Institute of Science and Technology <br/>
 📍 Tamil Nadu, India
 </p>
