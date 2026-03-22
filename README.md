@@ -1,55 +1,76 @@
+<h1 align="center">Hi 👋, I'm Atul Bhardwaj</h1>
 
-
-<!--
-**atulbhardwaj-io/atulbhardwaj-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 I'm Atul Bhardwaj
-
- B.Tech CSE (IoT) @ SRM Institute of Science and Technology
- Tamil Nadu, India
-
+<p align="center">
+🎓 B.Tech CSE (IoT) @ SRM Institute of Science and Technology <br/>
+📍 Tamil Nadu, India
+</p>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-* Computer Science student focused on **Data Engineering and Scalable Systems**
-* Building real-world solutions using **data pipelines, machine learning, and cloud tools**
-* Interested in **analytics, automation, and environmental intelligence systems**
+* Computer Science student specializing in **Data Engineering and Scalable Systems**
+* Experienced in building solutions using **data pipelines, machine learning, and cloud technologies**
+* Strong interest in **analytics, automation, and environmental intelligence systems**
 
 ---
 
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### 💻 Languages
 
-**Languages:**
-Python • Java • C++ • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
 
-**Data Engineering:**
-Apache Spark • Delta Lake • Airflow • ETL Pipelines • Data Modeling • Data Warehousing
+---
 
-**Databases:**
-PostgreSQL • SQL Optimization • Schema Design
+### ⚙️ Data Engineering
 
-**Machine Learning:**
-Scikit-Learn • PyTorch • Feature Engineering • Supervised Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=spark" />
+</p>
+<p>
+  Delta Lake • Apache Airflow • ETL Pipelines • Data Warehousing • Data Modeling
+</p>
 
-**Data Analysis:**
-Pandas • NumPy • Matplotlib • EDA
+---
 
-**Tools & Cloud:**
-Docker • Azure • Git • GitHub • Jupyter Notebook
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+---
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+<p>
+  Scikit-Learn • Feature Engineering • Supervised Learning
+</p>
+
+---
+
+### 📊 Data Analysis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p>
+  Pandas • NumPy • Matplotlib • EDA
+</p>
+
+---
+
+### ☁️ Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+</p>
 
 ---
 
@@ -57,28 +78,28 @@ Docker • Azure • Git • GitHub • Jupyter Notebook
 
 ### 🔹 Identity Lakehouse
 
-* Built a scalable data lakehouse using **Apache Spark & Delta Lake**
+* Developed a scalable data lakehouse using **Apache Spark and Delta Lake**
 * Implemented **Medallion Architecture (Bronze–Silver–Gold)**
-* Automated ETL pipelines using **Airflow & Docker**
-* Generated analytics-ready datasets for demographic insights
+* Automated ETL workflows using **Apache Airflow and Docker**
+* Built analytics-ready datasets for demographic and regional insights
   🔗 https://github.com/atulbhardwaj-io/IdentityLakeHouse
 
 ---
 
 ### 🔹 Revenue Intelligence Engine
 
-* Designed a **SQL Data Warehouse** integrating ERP & CRM data
-* Built ETL pipelines for ingestion and transformation
-* Created **Star Schema (fact & dimension tables)**
+* Designed a **SQL-based Data Warehouse** integrating ERP and CRM data
+* Built ETL pipelines for data ingestion and transformation
+* Implemented **Star Schema (fact and dimension tables)** for analytics
   🔗 https://github.com/atulbhardwaj-io/sqldatawarehouse
 
 ---
 
 ### 🔹 EcoSentry AI
 
-* AI-based platform to **predict forest fires using satellite data**
-* Trained ML models using environmental datasets
-* Integrated geospatial visualization for real-time tracking
+* Built an AI-driven system to **predict forest fires using satellite data**
+* Trained machine learning models on environmental datasets
+* Integrated geospatial visualization for real-time monitoring
   🔗 https://github.com/ECOSENTRYAI/Eco-Sentry
 
 ---
@@ -87,17 +108,15 @@ Docker • Azure • Git • GitHub • Jupyter Notebook
 
 ### Smart Bin: AI-Based Waste Classification System
 
-* Developed image recognition system for **waste segregation**
-* Trained deep learning models for classification accuracy
-* Built a prototype for smart waste management
-
----
+* Developed an image recognition system for **automated waste segregation**
+* Trained deep learning models to improve classification accuracy
+* Built a functional prototype for smart waste management
 
 ### Smart India Hackathon (Internal Round)
 
-* Built a **crime prediction & anomaly detection platform**
-* Used ML models for risk analysis in tourist areas
-* Selected among top teams in college
+* Developed a **crime prediction and anomaly detection platform**
+* Applied machine learning models for risk analysis in tourist regions
+* Selected among the top teams in the college internal round
 
 ---
 
