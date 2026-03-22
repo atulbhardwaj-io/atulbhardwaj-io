@@ -4,16 +4,16 @@
 
 ### 💡 Data Engineering | AI/ML | Scalable Systems
 
-*  Currently building **Identity Lakehouse (Spark + Delta Lake)**
-*  Learning **Advanced Data Engineering & Distributed Systems**
-*  Ask me about **ETL Pipelines, SQL, Machine Learning**
-*  Focused on **real-world data systems & analytics platforms**
+* Currently building **Identity Lakehouse (Spark + Delta Lake)**
+* Learning **Advanced Data Engineering & Distributed Systems**
+* Ask me about **ETL Pipelines, SQL, Machine Learning**
+* Focused on **real-world data systems & analytics platforms**
 
 <br clear="both"/>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 * Computer Science student specializing in **Data Engineering and Scalable Systems**
 * Experienced in building solutions using **data pipelines, machine learning, and cloud technologies**
@@ -35,9 +35,11 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=spark" />
+  <img src="https://cdn.simpleicons.org/databricks/E25A1C" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 <p>
-  Delta Lake • Apache Airflow • ETL Pipelines • Data Warehousing • Data Modeling
+  Apache Spark • Delta Lake • Databricks • Apache Airflow • ETL Pipelines • Data Warehousing • Data Modeling
 </p>
 
 ---
@@ -129,5 +131,5 @@
 ## 📫 Connect
 
 * GitHub: https://github.com/atulbhardwaj-io
-* LinkedIn: (add your link)
-* Portfolio: (add your link)
+* LinkedIn: https://www.linkedin.com/in/atul-bhardwaj/
+* Portfolio: https://atulbhardwaj.vercel.app/
