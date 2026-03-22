@@ -64,9 +64,8 @@
 ### ⚙️ Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spark" />
+ 
   <img src="https://cdn.simpleicons.org/databricks/E25A1C" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 <p>
   Apache Spark • Delta Lake • Databricks • Apache Airflow • ETL Pipelines • Data Warehousing • Data Modeling
