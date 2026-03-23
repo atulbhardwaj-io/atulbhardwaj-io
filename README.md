@@ -64,7 +64,7 @@
 ### ⚙️ Data Engineering
 
 <p>
- 
+ <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" height="48"/>
   <img src="https://cdn.simpleicons.org/databricks/E25A1C" height="48"/>
 </p>
 <p>
