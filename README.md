@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Atul Bhardwaj</h1>
+<h1 align="left">Hi 👋,there I'm Atul Bhardwaj</h1>
 
 <img align="right" alt="data-engineer" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
