@@ -4,10 +4,11 @@
 
 ### 💡 Data Engineering | Scalable Systems
 
-*  Currently building **Identity Lakehouse (Spark + Delta Lake)**
+*  Currently building **Identity Lakehouse **
 *  Learning **Advanced Data Engineering & Distributed Systems**
-*  I love to work with **big data**
+*  I love to work with **big data** 
 *  Focused on **real-world data systems & analytics platforms**
+  
 
 <br clear="both"/>
 
