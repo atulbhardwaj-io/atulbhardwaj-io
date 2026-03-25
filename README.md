@@ -39,7 +39,7 @@
 * Designed a **SQL-based Data Warehouse** integrating ERP and CRM data
 * Built ETL pipelines for data ingestion and transformation
 * Implemented **Star Schema (fact and dimension tables)** for analytics
-  🔗 [https://github.com/atulbhardwaj-io/sqldatawarehouse](https://github.com/atulbhardwaj-io/sqldatawarehouse)
+  🔗 [https://github.com/atulbhardwaj-io/sqldatawarehouse](https://github.com/atulbhardwaj-io/sql_data_warehouse)
 
 ---
 
